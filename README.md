@@ -1,12 +1,7 @@
 Hound Breeder
 ===================
 
-Hound for free rider.
-
-### Hound
-
-https://github.com/thoughtbot/hound
-
+[Hound](https://github.com/thoughtbot/hound) don't open purchase window if added this gem to Gemfile.
 
 Installation
 =======
