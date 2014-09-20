@@ -1,7 +1,7 @@
 Hound Breeder
 ===================
 
-[Hound](https://github.com/thoughtbot/hound) don't open purchase window if added this gem to Gemfile.
+This gem updates [Hound for OSS](https://github.com/thoughtbot/hound). Don't open purchase window.
 
 Installation
 =======
