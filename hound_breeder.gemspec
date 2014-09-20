@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.version     = HoundBreeder::VERSION
   s.authors     = ['Masahiro Saito']
   s.email       = ['camelmasa@gmail.com']
-  s.summary     = 'hound for free rider'
-  s.description = 'hound for free rider'
+  s.summary     = "This gem updates Hound for OSS. Don't open purchase window"
+  s.description = "This gem updates Hound for OSS. Don't open purchase window"
   s.homepage    = 'https://github.com/camelmasa/hound_breeder'
   s.license     = 'MIT'
 
